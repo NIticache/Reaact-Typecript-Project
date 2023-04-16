@@ -1,0 +1,10 @@
+.movieCard{
+
+display: flex;
+flex-direction: column;
+}
+
+.cardParent{
+display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
